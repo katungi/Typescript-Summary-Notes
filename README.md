@@ -1,4 +1,4 @@
-# Personal TYPESCRIPT NOTES
+# TYPESCRIPT Summary Notes
 
 Hi there Stranger,
 
