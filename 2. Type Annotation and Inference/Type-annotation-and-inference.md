@@ -71,5 +71,3 @@ let point: { x: number; y: number } = {
 ```
 
 This means x can only be assingned a number, and y will be assigned a number
-
-
