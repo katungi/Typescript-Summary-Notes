@@ -6,18 +6,23 @@ My name is Daniel Dennis 😃
 
 I am an aspiring Typescript wizard 🦹‍♀️.
 
-These are my personal notes as I learn Ts. I am writing them as I read from different Video and Written Sources.
+These are some simple to follow summary notes for Typescript. I am writing them as I learn from different Videos and Written Sources.
 
-**_NOTE_** I will list the Material For References later. (But feel free to Add them as a Contribution via a PR)
+**_NOTE_** Feel free to Add any Recommended Learning Resource as a Contribution via a PR)
 
 ## Why Write A Summary
 
-I wrote this summary for one reason. Reading without writing for me can be boring.
+I wrote this summary because reading without writing for me can be boring.
+
+This should however not be used as the main learning resource some of the explanations to the concepts are a bit shallow.
+Rather, use this Repo as a complimentary tool and a guide as you Learn TS.
 
 This summary also helps by:
 
 - Acting as a reference material for the future
 - Giving a short and quick intro to TypeScript
+- Eliminate the jargon and go straight to the point
+- Making it easier for someone else to learn TS
 
 ## Table of Contents
 
