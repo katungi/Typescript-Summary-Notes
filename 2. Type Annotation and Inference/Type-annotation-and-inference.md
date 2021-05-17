@@ -47,3 +47,29 @@ lets try it with an array of numbers
 ```typescript
 let nums: number[] = [1, 2, 3];
 ```
+
+Let's see how to work with Objects in Typescript
+
+first, we create a variable point and assign it an object
+
+```typescript
+let point = {
+  x: 10,
+  y: 20,
+};
+```
+
+To annotate types to objects is a bit more complex. Hang in there!
+
+for our object `point` above we can add a colon an curly braces `:{}`. Inside those curly braces, I will add the different types of the key and values
+
+```typescript
+let point: { x: number; y: number } = {
+  x: 10,
+  y: 20,
+};
+```
+
+This means x can only be assingned a number, and y will be assigned a number
+
+
