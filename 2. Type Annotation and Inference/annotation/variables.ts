@@ -50,3 +50,6 @@ const logNumber: (i: number) => void = (i: number) => {
 }
 
 // this means that we will receive a value i of type number, and return a void
+
+const json = '{"x": 10, "y": 20}';
+const coordinates = JSON.parse(json);
