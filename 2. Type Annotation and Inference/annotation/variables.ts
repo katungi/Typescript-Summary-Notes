@@ -34,3 +34,19 @@ let point: { x: number, y: number } = {
   y: 20,
 };
 
+
+// Function
+// creating a function with a type.
+// We only care about arguments going into the function and the return values
+
+// take this function for example
+
+// const logNumber:  = (i) => {
+//   console.log(i);
+// }
+
+const logNumber: (i: number) => void = (i: number) => {
+  console.log(i)
+}
+
+// this means that we will receive a value i of type number, and return a void
